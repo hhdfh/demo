@@ -1,6 +1,5 @@
 class Shape(object):
     '''形状'''
-     
     @property
     def area(self):
         pass
